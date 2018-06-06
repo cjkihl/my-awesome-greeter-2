@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caki0915/my-awesome-greeter.git"
+    "url": "git+https://github.com/caki0915/my-awesome-greeter-2.git"
   },
   "keywords": [
     "Hello",
@@ -26,9 +26,9 @@
   "author": "C-J",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/caki0915/my-awesome-greeter/issues"
+    "url": "https://github.com/caki0915/my-awesome-greeter-2/issues"
   },
-  "homepage": "https://github.com/caki0915/my-awesome-greeter#readme",
+  "homepage": "https://github.com/caki0915/my-awesome-greeter-2r#readme",
   "devDependencies": {
     "@types/jest": "^22.2.3",
     "jest": "^23.0.1",
