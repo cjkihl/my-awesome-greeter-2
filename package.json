@@ -13,7 +13,8 @@
     "prepublishOnly": "npm test && npm run lint",
     "preversion": "npm run lint",
     "version": "npm run format && git add -A src",
-    "postversion": "git push && git push --tags"
+    "postversion": "git push && git push --tags",
+    "codecov": "codecov"
   },
   "repository": {
     "type": "git",
@@ -31,6 +32,7 @@
   "homepage": "https://github.com/caki0915/my-awesome-greeter-2r#readme",
   "devDependencies": {
     "@types/jest": "^22.2.3",
+    "codecov": "^3.0.2",
     "jest": "^23.0.1",
     "prettier": "^1.13.2",
     "ts-jest": "^22.4.6",
